@@ -6,6 +6,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'tpope/vim-surround'
 Plug 'gcmt/wildfire.vim'
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'yegappan/taglist'
 Plug 'mg979/vim-visual-multi'
 Plug 'connorholyday/vim-snazzy'
